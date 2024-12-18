@@ -1,3 +1,5 @@
+__import__("os").system("pip install requests --target=. -qq")
+
 import requests
 
 # Define the URL
