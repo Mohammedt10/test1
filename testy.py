@@ -20,4 +20,4 @@ try:
 
 except requests.exceptions.RequestException as e:
     # Print the error if any
-    print(f"An error occurred: {e}"
+    print(f"An error occurred: {e}")
